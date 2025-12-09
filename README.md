@@ -17,7 +17,6 @@ CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Im
 
 
 [![Project Page](https://img.shields.io/badge/Project-Page-1E90FF)](https://cmlab-korea.github.io/CHIMERA/)
-[![Demo Video](https://img.shields.io/badge/Demo-Video-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=t01uFUSa-uI)
 [![arXiv](https://img.shields.io/badge/arXiv-2401.03707-B31B1B.svg)](https://arxiv.org/pdf/2512.07155)
 ![Stars](https://img.shields.io/github/stars/CMLab-Korea/CHIMERA?style=social)
 
