@@ -26,8 +26,8 @@ This repository is the official PyTorch implementation of "CHIMERA: Adaptive Cac
 Figure 1. Qualitative result of smoothness of morphing transition (Smooth), heterogeneous-aware domain consistency (Domain Consistency), and perceptual quality (Perceptual Quality). Here, ✗ indicates cases that fail for most pairs, ▲ represents cases that fail for some pairs, and ✓ denotes cases that succeed for most pairs.
 
 ## 📧 News
-* **Aug 24, 2025**: The paper is available on [arXiv](https://arxiv.org/pdf/2512.07155).
-* **Aug 24, 2025**: This repository is created.
+* **Dec 9, 2025**: The paper is available on [arXiv](https://arxiv.org/pdf/2512.07155).
+* **Dec 3, 2025**: This repository is created.
 
 ## 📝 Code Release Plan
 - [ ] GLCS code upload
